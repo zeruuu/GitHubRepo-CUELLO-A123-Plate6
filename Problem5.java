@@ -27,7 +27,7 @@ public class Problem5 {
             adjacencyList.get(vertex2).add(vertex1);
         }
 
-        System.out.println("Debugging: Adjacency List:");
+        System.out.println("Adjacency List:");
         for (int i = 0; i < adjacencyList.size(); i++) {
             System.out.println(i + ": " + adjacencyList.get(i));
         }
