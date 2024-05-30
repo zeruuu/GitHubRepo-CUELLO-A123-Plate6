@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+// Problem 8
+// Write a Java program that checks whether two graphs are isomorphic or not, given a set of vertices.
+
 public class Problem8 {
 
     public static void main(String[] args) {
