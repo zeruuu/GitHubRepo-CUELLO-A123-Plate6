@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // Problem 7
-// rite a java program that accepts vertex pairs associated
+// Write a java program that accepts vertex pairs associated
 // to the edges of an undirected graph and the number of times each edge appears.
 // The program should construct an incidence matrix for the graph.
 public class Problem7 {
